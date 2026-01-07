@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HarcamaTakip</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="summary">Summary</string>
+</resources>
